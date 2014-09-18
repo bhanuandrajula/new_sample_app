@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: sample application
+# Ruby on Rails Bhanu's App
 
-This is the sample application
+This application is developed
 
-by [Bhanu Andrajula](mailto:bhanua1985@gmail.com/).
+by [Bhanu Andrajula](mailto:bhanua1985@gmail.com).
